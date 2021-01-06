@@ -42,7 +42,7 @@ python create_data_lists.py
 ```
 To train models, run following commands.
 ```
-$ python train.py
+$ python train_srresnet.py.py
 ```
 
 ## Inference
