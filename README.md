@@ -1,5 +1,7 @@
 # VRDL_HW4
 Code for Selected Topics in Visual Recognition using Deep Learning Homework 4
+<img src="./imgs/00.png" alt="drawing" width="400"/>
+<img src="./imgs/00 (1).png" alt="drawing" width="400"/>
 
 ## Hardware
 The following specs were used to create the original solution.
